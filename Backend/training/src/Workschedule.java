@@ -55,6 +55,5 @@ public class WorkSchedule{
             return true;
         }
         
-        }
     }
 }
